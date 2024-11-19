@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('Font.eot');
+    src: url('Font.eot?#iefix') format('embedded-opentype'),
+        url('Font.woff2') format('woff2'),
+        url('Font.woff') format('woff'),
+        url('Font.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('EuclidCircularB-Medium.eot');
+    src: url('EuclidCircularB-Medium.eot?#iefix') format('embedded-opentype'),
+        url('EuclidCircularB-Medium.woff2') format('woff2'),
+        url('EuclidCircularB-Medium.woff') format('woff'),
+        url('EuclidCircularB-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Euclid Circular B';
+    src: url('Font_1.eot');
+    src: url('Font_1.eot?#iefix') format('embedded-opentype'),
+        url('Font_1.woff2') format('woff2'),
+        url('Font_1.woff') format('woff'),
+        url('Font_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
