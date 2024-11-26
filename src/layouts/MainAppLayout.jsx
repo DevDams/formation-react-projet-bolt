@@ -5,7 +5,7 @@ const MainAppLayout = ({ children }) => {
   return (
     <div>
       <RouterNavbar />
-      <div className='border border-violet-400 m-4'>
+      <div className='m-4 pt-10'>
         {children}
       </div>
     </div>

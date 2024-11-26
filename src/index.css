@@ -16,3 +16,9 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
 }
+
+
+.navbar-global .active .navbar-item {
+  color: red;
+  border-bottom: 1px solid orange;
+}

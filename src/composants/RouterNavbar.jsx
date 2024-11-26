@@ -3,19 +3,19 @@ import { NavLink } from 'react-router-dom'
 
 const RouterNavbar = () => {
   return (
-    <div className='w-full h-20 bg-red-300 flex items-center justify-center gap-8'>
-      <NavLink to="/">
-        <div className='text-lg text-black font-bold'>
+    <div className='navbar-global w-full h-20 bg-black flex items-center justify-center gap-8 drop-shadow-lg'>
+      <NavLink to="/" class="active">
+        <div className='navbar-item text-lg text-white font-bold'>
           Accueil
         </div>
       </NavLink>
       <NavLink to="/contact">
-        <div className='text-lg text-black font-bold'>
+        <div className='navbar-item text-lg text-white font-bold'>
           Contact
         </div>
       </NavLink>
       <NavLink to="/ziengfzoeubgizuebg">
-        <div className='text-lg text-black font-bold'>
+        <div className='navbar-item text-lg text-white font-bold'>
           Page 404
         </div>
       </NavLink>
