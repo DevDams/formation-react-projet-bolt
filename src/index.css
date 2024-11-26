@@ -20,5 +20,4 @@ body {
 
 .navbar-global .active .navbar-item {
   color: red;
-  border-bottom: 1px solid orange;
 }

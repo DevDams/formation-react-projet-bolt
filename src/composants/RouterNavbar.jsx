@@ -14,6 +14,16 @@ const RouterNavbar = () => {
           Contact
         </div>
       </NavLink>
+      <NavLink to="/in/adams">
+        <div className='navbar-item text-lg text-white font-bold'>
+          Dynamic
+        </div>
+      </NavLink>
+      <NavLink to="/dashboard">
+        <div className='navbar-item text-lg text-white font-bold'>
+          Dashboard
+        </div>
+      </NavLink>
       <NavLink to="/ziengfzoeubgizuebg">
         <div className='navbar-item text-lg text-white font-bold'>
           Page 404
